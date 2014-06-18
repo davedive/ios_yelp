@@ -16,11 +16,11 @@
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
                 <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="grouped" separatorStyle="default" rowHeight="44" sectionHeaderHeight="10" sectionFooterHeight="10" translatesAutoresizingMaskIntoConstraints="NO" id="qfZ-Mh-lFI">
-                    <rect key="frame" x="0.0" y="0.0" width="320" height="486"/>
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="366"/>
                     <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                     <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                     <constraints>
-                        <constraint firstAttribute="height" constant="486" id="aTn-TT-fuJ"/>
+                        <constraint firstAttribute="height" constant="366" id="aTn-TT-fuJ"/>
                     </constraints>
                 </tableView>
             </subviews>
