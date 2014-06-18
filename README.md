@@ -5,6 +5,8 @@ This is an iOS 7 demo app displaying businesses registered on Yelp using the [Ye
 
 Time spent: approximately 12 hours
 
+Note: I put the review count to the right side of each cell, rather than the distance.  Same idea of pinning a value to the right side, without some more API work...
+
 Features
 ---------
 #### Required
