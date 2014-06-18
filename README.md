@@ -19,10 +19,10 @@ Features
 - [x] Clicking on the "Search" button should dismiss the filters page and trigger the search w/ the new filter settings.
 
 #### Optional
-- [] infinite scroll for restaurant results
-- [] Implement map view of restaurant results
-- [] implement a custom switch
-- [] Implement the restaurant detail page.
+- [ ] infinite scroll for restaurant results
+- [ ] Implement map view of restaurant results
+- [ ] implement a custom switch
+- [ ] Implement the restaurant detail page.
 
 Walkthrough
 ------------
