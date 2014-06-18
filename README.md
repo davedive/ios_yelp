@@ -26,4 +26,4 @@ Features
 
 Walkthrough
 ------------
-![Video Walkthrough]()
+![Video Walkthrough](yelp-walkthrough-2.gif)
